@@ -1,8 +1,8 @@
 
 {
-    "name": "josecdavila/aga.io-games-tutorial",
-    "description": "Bagario Framework.",
-    "keywords": ["framework", "bagario"],
+    "name": "charleskeller/kizi",
+    "description": "Kizi Framework.",
+    "keywords": ["framework", "kizi"],
     "license": "MIT",
     "type": "project",
     "require": {
